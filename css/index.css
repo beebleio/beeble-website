@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #14aaff;
+}
+
+.container {
+	width: 100%;
+	min-width: 900px;
+	margin: auto;
+	background: #ffffff;
+}
+
+a {
+	color: #03e7bf;
+}
+
+h1 {
+	font-family: 'Comfortaa', cursive;
+	color: #f9f800;
+}
+
+header {
+	width: 90%;
+	margin: 10px auto;
+	min-width: 900px;
+	font-family: 'Comfortaa', cursive;
+	height: 137px;
+}
+
+header h1 {
+	width: 69px;
+	height: 137px;
+	float: left;
+}
+
+nav {
+	width: 600px;
+	height: 137px;
+	float: left;
+}
+
+nav ul {
+	height: 100px;
+}
+
+nav li {
+	float: left;
+	list-style: none;
+	margin-top: 70px;
+}
+
+nav li a {
+	width: 150px;
+	display: block;
+	text-decoration: none;
+	text-align: center;
+}
